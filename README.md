@@ -6,7 +6,7 @@ Single-nucleus phosphatome rewiring and phosphoproteomics reveal PFKFB2 as an LR
 
 Overview
 
-This study investigates phosphatome remodeling in human Parkinsonian substantia nigra and identifies PFKFB2 as an LRRK2-linked metabolic node. The analysis integrates sample-level pseudobulk phosphatome profiling, differential co-expression rewiring, single-nucleus PFKFB2 cell-state analysis, phosphosite prioritization, kinase–peptide docking summaries and public LRRK2 phosphoproteomic interrogation.
+This study investigates phosphatome remodeling in human Parkinsonian substantia nigra and identifies PFKFB2 as an LRRK2-linked metabolic node. The analysis integrates sample-level pseudobulk phosphatome profiling, differential co-expression rewiring, single-nucleus PFKFB2 cell-state analysis, phosphosite prioritization, kinase–peptide docking and LRRK2 phosphoproteomic interrogation.
 
 Repository contents
 
@@ -50,7 +50,7 @@ Supplementary Table S7
 
 File: Supplementary_Table_S7.xlsx
 
-Contains public LRRK2 phosphoproteomic curation, inhibitor-response summaries, spectrum-level validation and fragment-ion annotation supporting the conserved PFKFB2/Pfkfb2 Ser483/Ser486 region.
+Contains LRRK2 phosphoproteomic curation, inhibitor-response summaries, spectrum-level validation and fragment-ion annotation supporting the conserved PFKFB2/Pfkfb2 Ser483/Ser486 region.
 
 Data sources
 
